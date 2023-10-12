@@ -1,2 +1,2 @@
 # Github-Commands
-Description and use of gith and github at a single place
+Description and use of git and github. This only depicts the the git commands and their use.
